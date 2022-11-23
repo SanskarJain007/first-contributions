@@ -13,7 +13,6 @@
 - [Hrushabhsingh Chouhan](https://github.com/hrushabhchouhan)
 - [Aman Bharti](https://github.com/aman0ab)
 - [Archishman Dash](https://www.github.com/aholic-archie)
-- [Sanskar Jain](https://github.com/SanskarJain007)
 - [Esta es mi primer contribucion](https://github.com/PabloCH23)
 - [Pridhi Grag](https:/github/com/pridhigarg369)
 - [Juanma Romero](https://github.com/juanmaroni/)
